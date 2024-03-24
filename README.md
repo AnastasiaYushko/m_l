@@ -1,4 +1,4 @@
-# m_l
+# Машинное обучение
 1) Познакомьтесь с пакетом pandas. Выполните в отдельных ячейках блокнота все команды из
 https://skillbox.ru/media/code/rabotaem-s-pandas-osnovnye-ponyatiya-i-realnye-dannye/
 
